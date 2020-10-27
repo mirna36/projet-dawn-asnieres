@@ -1,88 +1,66 @@
-*{
+* {
+    margin: 0;
+    padding: 0;
+}
 
-    margin:0;
-    
-    padding:0;
-    
-    }
-    
-     
-    
-    body, html{height:100%;}
-    
-    body{
-    
-    text-align:center;
-    
-    }
+body,
+html {
+    height: 100%;
+}
 
-    header{
-        background:#424242 ;
-        margin-bottom: 20px;
-    }
+body {
+    text-align: center;
+}
 
-    .navbar-brand{
-        font-weight: bolder;
-        font-size: 30px;
-    }
-    
-     .navbar-logo{
-         border-radius: 45px;
-     }
-    
-    #main{
-    
-    max-width:1280px;
-    
-    min-height:100%;
-    
-    margin:0 auto;
-    
-    position:relative;
-    
-    }
-    
-     
-    
-    footer{
-    
-    background:#2c2c2c ;
-    
-    position:absolute;
-    
- 
+header {
+    background: #424242;
+    margin-bottom: 20px;
+}
+
+.navbar-brand {
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.navbar-logo {
+    border-radius: 45px;
+}
+
+#main {
+    max-width: 1280px;
+    min-height: 100%;
+    margin: 0 auto;
+    position: relative;
+}
+
+footer {
+    background: red;
+    position: absolute;
     margin-top: 200px;
     margin-bottom: 0;
-    
-    width:100%;
-    
-    padding-top:20px;
-    
-    height:100px;
-
+    width: 100%;
+    padding-top: 20px;
+    height: 1px;
     text-align: center;
-    
-    }
-    .icons{
-        font-size: 30px;
-    }
-    .copyright{
-        color: white;
-    }
-    .buttonAjouter{
-       text-align: right;
-       margin-top: 30px;
-       margin-bottom: 20px;
-    }
+}
 
-    .container{
-      
-        width: 50%;
-        box-shadow: #424242;
-        padding-bottom: 20px;
-      
-    }
-    
+.icons {
+    font-size: 30px;
+}
 
+.copyright {
+    color: white;
+}
 
-   
+.buttonAjouter {
+    text-align: right;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.container {
+    width: 50%;
+    box-shadow: #424242;
+    padding-bottom: 20px;
+    padding-top: 50px;
+}

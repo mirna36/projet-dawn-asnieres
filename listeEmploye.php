@@ -18,7 +18,7 @@ include_once('header.php');
 		<h1 >LISTE DES  EMPLOYES</h1>
 	</div>
 	<div class="buttonAjouter">
-		<a href=""><button type="button" class="btn btn-primary " data-toggle="button" aria-pressed="false" >
+		<a href="gestionEmploye.php"><button type="button" class="btn btn-primary " data-toggle="button" aria-pressed="false" >
   		Ajouter
 		</button></a>
 	</div>

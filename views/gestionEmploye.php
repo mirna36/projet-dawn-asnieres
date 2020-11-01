@@ -71,7 +71,7 @@ require_once("../model/model.php");
                 </div>
             </div>
             <div class="form-row">
-                <div class="form-group col-md-4">
+                <div class="form-group col-md-6">
                     <label for="dateNaissance">Date de naissance</label>
                     <input type="date" class="form-control" name="dateNaissance" value="<?php echo $dateNaissance; ?>" >
                 </div>

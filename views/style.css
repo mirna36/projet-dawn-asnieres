@@ -1,0 +1,60 @@
+                body {
+                    margin: 0;
+                    padding: 0;
+                }
+                
+                header {
+                    background: #424242;
+                    margin-bottom: 20px;
+                }
+                
+                .navbar-brand {
+                    font-weight: bolder;
+                    font-size: 30px;
+                }
+                
+                .navbar-logo {
+                    border-radius: 45px;
+                }
+                
+                h1 {
+                    text-align: center;
+                }
+                
+                footer {
+                    background: #424242;
+                    position: absolute;
+                    bottom: 0;
+                    width: 100%;
+                    height: 80px;
+                    text-align: center;
+                }
+                
+                .icons {
+                    font-size: 30px;
+                }
+                
+                .copyright {
+                    color: white;
+                }
+                
+                .buttonAjouter {
+                    text-align: right;
+                    margin-top: 30px;
+                    margin-bottom: 20px;
+                }
+                
+                .card-profile {
+                    display: flex;
+                    width: 60%;
+                    margin: .5rem auto;
+                    background-color: whitesmoke;
+                }
+                
+                .fas.fa-user-times {
+                    color: RED;
+                }
+                
+                .fas.fa-info {
+                    color: orange
+                }

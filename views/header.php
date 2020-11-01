@@ -17,7 +17,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" />
 
   <!--CSS-->
-  <link rel="stylesheet" href="main.css">
+  <link rel="stylesheet" href="style.css">
 
 </head>
 
@@ -26,7 +26,7 @@
   <header>
 
     <nav class="navbar navbar-expand-lg navbar-dark ">
-      <img class="navbar-logo" src="images/fenton-boomer-kevlar-13-cm-100-w-rms-902.420-2.jpg" height="80" width="80" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img class="navbar-logo" src="../images/fenton-boomer-kevlar-13-cm-100-w-rms-902.420-2.jpg" height="80" width="80" />&nbsp;&nbsp;&nbsp;&nbsp;
       <a class="navbar-brand" href="#">DAWM-ASNIERES</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
